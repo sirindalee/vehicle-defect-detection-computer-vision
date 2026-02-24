@@ -1,0 +1,1 @@
+An end‑to‑end computer vision system using YOLOv11 with OBB support to process vehicle videos, detect angled and rotated defects, and generate tagged inspection reports, improving inspection accuracy and consistency to over 80%.
